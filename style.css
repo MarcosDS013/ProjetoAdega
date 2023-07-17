@@ -532,12 +532,11 @@ header.sticky {
 }
 
 .footer_copyright {
-    text-align: center;
-    margin-top: 4rem;
-    padding: 1.2rem;
-    color: #ff9f0d;
-    border-top: 1px solid #ff9f0d;
-  }
+  text-align: center;
+  padding: 1.2rem;
+  color: white;
+  border-top: 1px solid #ff9f0d;
+}
 
 /*================= BREAKPOINTS ====================*/
 @media screen and (max-width: 1548px) {
